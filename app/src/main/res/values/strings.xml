@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Games Application</string>
+    <string name="login">Login</string>
+    <string name="welcome">Bem-Vindo</string>
+    <string name="label_main">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+    <string name="email_label">E-mail</string>
+    <string name="password_label">Senha</string>
+    <string name="remember">Lembrar-me</string>
+    <string name="create_account">Criar uma nova conta</string>
+    <string name="footer_label">Desenvolvido por DS2M</string>
+    <string name="enter">Entrar</string>
+    <string name="register">Nova Conta</string>
+    <string name="photo_label">Vamos escolher uma foto?</string>
+    <string name="data_label">Dados para autenticação</string>
+    <string name="label_person_data">Dados Pessoais</string>
+    <string name="game_level">Qual seu nivel gamer?</string>
+    <string name="games_finished_label">Jogos Finaliados</string>
+    <string name="currently_playing">Jogando</string>
+    <string name="age_label">Idade</string>
+    <string name="nivel_noob">Iniciante</string>
+    <string name="nivel_casual">Casual</string>
+    <string name="nivel_tryhard">Avançado</string>
+    <string name="resgistered_games">Seus jogos cadastrados</string>
+
+    <string-array name="consoles_array">
+        <item>Nintendo</item>
+        <item>Xbox</item>
+        <item>Playstation</item>
+        <item>PC</item>
+    </string-array>
+</resources>
